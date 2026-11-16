@@ -14,7 +14,6 @@
     "start": "electron ."
   },
   "dependencies": {
-    "@esbuild/win32-x64": "^0.28.2",
     "clsx": "^2.1.1",
     "framer-motion": "^11.5.4",
     "lucide-react": "^0.439.0",
