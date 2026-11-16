@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Build caches
+.cache/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Electron / Packaging Outputs
+dist-electron/
+desktop/dist/
+desktop/release/
+web/dist/WiFiGuardian-Setup.exe
+web/public/WiFiGuardian-Setup.exe
+*.sqlite3
+
+# OS Files
+Thumbs.db
+.DS_Store
